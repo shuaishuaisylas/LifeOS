@@ -10,7 +10,7 @@ import {demoProject,createProjectExamples} from './project-demo.mjs';
 import {findMemoryConversation,memoryResumeContext} from './memory-navigation.mjs';
 import {renderMemoryTopic,topicMemoryIds,topicSearchText,pruneMemorySnapshot,invalidateMemoryConversations} from './memory-topics.mjs';
 import {buildLedgerModel,createLedgerView,disposeLedgerViews} from './decision-ledger.mjs?v=auto-text-17';
-import {initSceneLanding} from './scene-landing.mjs?v=scenes-15-14';
+import {initSceneLanding} from './scene-landing.mjs?v=split-text-16';
 import {renderGuideDetail} from './guide-detail.mjs';
 import {renderGuideShare,shareableGuides} from './guide-share.mjs';
 import {initWorkspaceShell} from './workspace-shell.mjs';
